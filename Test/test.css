@@ -1,0 +1,21 @@
+body {
+background-color: ;
+  background-image: url();
+
+}
+
+
+
+h2 {
+  color: purple;
+  font-family: fantasy;
+  text-align: center;
+  background-image: url("./img-mission-background.jpg");
+}
+
+
+ .flex-container {
+height: 700px;
+  background-image: url("./img-mission-background.jpg");
+
+}
